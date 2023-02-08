@@ -251,8 +251,8 @@ http://livestreaming.kozow.com/stream.php?type=m3u8&id=Bollyone
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",BollyOne HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",BollyOne HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
