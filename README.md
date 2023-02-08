@@ -152,12 +152,15 @@ http://axcestv.vip:8080/freeview/axcestv/456
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://is.gd/zMbeYI.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-http://23.237.10.66:16424
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+mitv://generationnexxxt.com:19806/3513341a94a84aa797d7dda292a951cf
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 P2p://generationnexxxt.com:19806/3513341a94a84aa797d7dda292a951cf
 
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
+mitv://generationnexxxt.com:19806/63de80640000ffec7efa1d91423532c6
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 P2p://generationnexxxt.com:19806/63de80640000ffec7efa1d91423532c6
