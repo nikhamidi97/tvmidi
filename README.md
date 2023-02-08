@@ -165,8 +165,9 @@ mitv://generationnexxxt.com:19806/63de80640000ffec7efa1d91423532c6
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 P2p://generationnexxxt.com:19806/63de80640000ffec7efa1d91423532c6
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
-http://ys-users.com:8080/obconline021/6eQmVNsDZY/497611
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
+#EXTVLCOPT:http-user-agent=com.iptvlink.net
+https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
