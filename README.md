@@ -140,7 +140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",Astro Oasis HD
 http://51.79.82.208:16009
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941609&extension=ts&play_token=UrcfQKYpBD
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
@@ -196,7 +196,7 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png", Sensasi
+EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png", Sensasi
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -291,7 +291,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png",Astro Tutor TV SMK
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/NPqkrfh.jpg",KIDS TV
+EXTINF:-1  tvg-logo="https://i.imgur.com/NPqkrfh.jpg",KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 https://liveaneviadev.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
@@ -413,7 +413,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World HD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
