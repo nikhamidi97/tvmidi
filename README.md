@@ -164,7 +164,7 @@ mitv://generationnexxxt.com:18806/9d90fb0ecd0e42b0ba37b73ef3f14d1a
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 mitv://ns2.hellotvvod.com:9906/51a69ea20cc74bb6bf6e9dad663ae002.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
 #EXTVLCOPT:http-user-agent=com.iptvlink.net
 https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
 
@@ -196,7 +196,7 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png", Sensasi
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png", Sensasi
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -299,10 +299,14 @@ https://liveaneviadev.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+https://iplogger.com/Ceria-shareext
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/astor/2606
+https://malay.bystreamtv.workers.dev/dash-wv/linear/2606/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
