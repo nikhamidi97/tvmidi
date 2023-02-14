@@ -143,8 +143,11 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941609&ex
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=ts&play_token=UrcfQKYpBD
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-http://axcestv.vip:8080/freeview/axcestv/456
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRnGvVUnQIGCCbu-74WvKfKM=YVCt/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://is.gd/zMbeYI.mpd
