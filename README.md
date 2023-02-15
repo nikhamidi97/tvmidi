@@ -147,9 +147,9 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&ex
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRkorN0qE9UChpip3u4-daZA=T_Nv/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqgaczNpgvO1ZvBHO2qyrR4=sRZp/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRkorN0qE9UChpip3u4-daZA=T_Nv/dash-wv/jitp-linearwm/2402/default_ott.mpd
@@ -157,16 +157,12 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRkorN0qE9UChpip3
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRudDENcpjTAnRls80hjsaEI=oXI2/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRrUVLVLcS2OXKbP2VwXzsZE=S7wh/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro citra
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRudDENcpjTAnRls80hjsaEI=oXI2/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-
-EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro citra
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRudDENcpjTAnRls80hjsaEI=oXI2/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -316,6 +312,7 @@ https://liveaneviadev.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_6-joDwmOtR37Ikhk_ZXvk=3ved/dash-wv/jitp-linearwm/2606/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe5oH2DIPswn_W346SYm9BME=yDyC/dash-wv/jitp-linearwm/2606/default_ott.mpd
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
 https://iplogger.com/Ceria-shareext
