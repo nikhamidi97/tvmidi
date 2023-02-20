@@ -153,6 +153,9 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiuv84h-P4ZOSW8w
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRmr5QiM7ueTcExjlkCV7Lz4=2peo/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRnxW5_VUBgNtvp6Faeztjqs=NgXp/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
