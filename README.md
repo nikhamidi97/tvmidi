@@ -289,6 +289,9 @@ https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe2AOX8c91xKQZ49d
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe9qUjakhn7Kp1Qip5yQH1_Q=TfHt/dash-wv/jitp-linearwm/2606/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLewFNhcsuOe4eJbNtkGfGBRE=DncS/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6715
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5024
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png",TA-DAA!
