@@ -137,6 +137,7 @@ http://51.79.82.208:16009
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiGlYzx4xB2KbZrF2dkcE1c=Nf07/dash-wv/jitp-linearwm/2402/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsss93YHWFtOH7zl6Q3Dw8c=2L2C/dash-wv/jitp-linearwm/2402/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqlUv-1DJEIStsGxGodY12k=2ug5/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
@@ -151,6 +152,7 @@ https://epg.pw/stream/41c33f54bf5c43e99dc5355f85e2fdf54eac30658089086d4d8404506b
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsdnK1l5BbTowROl1chxeeU=FaFJ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-d7ffed98-7989-4745-ab61-aee56556a02c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhLfOymnr-2VjrhUHD2ZdzM=pdln/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsBLuR48t6w6PQqOhJFM5Ik=HX5c/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
