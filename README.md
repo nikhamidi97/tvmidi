@@ -288,6 +288,12 @@ https://liveaneviadev.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe-uChTXhn6szeVYhXKKBi8Y=5WEy/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+#EXTVLCOPT:Icy-MetaData=1
+#EXTVLCOPT:Accept-Encoding=identity
+https://tinyurl.com/3526bnpa
 
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
