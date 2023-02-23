@@ -156,14 +156,9 @@ https://epg.pw/stream/41c33f54bf5c43e99dc5355f85e2fdf54eac30658089086d4d8404506b
 https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRs6p1b4QCl1N36gGWJ_UXDg=bnu7/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
-http://w.nasvpn.xyz:8080/saya/saya/11
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
-http://ys-users.com:8080/obconline021/6eQmVNsDZY/497605
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png",  GEMILANG
-http://ys-users.com:8080/obconline021/6eQmVNsDZY/497710
+https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
