@@ -146,8 +146,24 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRt0LlBxxRGFxvosE
 #EXTVLCOPT:http-Icy-MetaData=1
 http://axcestv.vip:8080/freeview/axcestv/456
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://epg.pw/stream/41c33f54bf5c43e99dc5355f85e2fdf54eac30658089086d4d8404506bdb2d87.ctv
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://w.nasvpn.xyz:8080/live/saya/saya/7870.ts
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://hotz.vip:2082/live/haziqdanial/abc12345/22.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://hotz.vip:2082/live/haziqdanial/abc12345/24.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AHfHuHN.png",  ASTRO FIRST
+http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Tzcko2T.png",  FIRST BEST
+http://hotz.vip:2082/live/haziqdanial/abc12345/3522.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
