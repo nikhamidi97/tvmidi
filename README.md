@@ -154,15 +154,15 @@ http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://w.nasvpn.xyz:8080/live/saya/saya/7870.ts
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-http://hotz.vip:2082/live/haziqdanial/abc12345/22.m3u8
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsVmcK3fJ6oeGfB1EupqAnc=4o83/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://hotz.vip:2082/live/haziqdanial/abc12345/24.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AHfHuHN.png",  ASTRO FIRST
+EXTINF: -1 tvg-logo="https://i.imgur.com/AHfHuHN.png",  ASTRO FIRST
 http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Tzcko2T.png",  FIRST BEST
+EXTINF: -1 tvg-logo="https://i.imgur.com/Tzcko2T.png",  FIRST BEST
 http://hotz.vip:2082/live/haziqdanial/abc12345/3522.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
@@ -172,13 +172,12 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhKkI3KM8TQFYtN3
 https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRs6p1b4QCl1N36gGWJ_UXDg=bnu7/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
-
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
-https://stream.zeehanzgadget.com/citra
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
-#EXTVLCOPT:http-user-agent=com.iptvliink.net
-#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -307,17 +306,18 @@ https://liveaneviadev.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe6shwDDyrutpa13O9AdlVR0=Y2xJ/dash-wv/jitp-linearwm/2606/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
-https://ceria.astradamy.com/dash-wv/jitp-linearwm/2606/default.mpd
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://w.nasvpn.xyz:8080/saya/saya/177.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 #EXTVLCOPT:Icy-MetaData=1
