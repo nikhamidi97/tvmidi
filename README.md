@@ -142,7 +142,7 @@ http://51.79.82.208:16009
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRt9Qf5RqzB9x8dGW0b1-Jr4=wEg6/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 
