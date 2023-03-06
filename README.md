@@ -16,25 +16,25 @@
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live21-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live31-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live22-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live32-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live23-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live33-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 4
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live24-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live34-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 5
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live25-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live35-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 6
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live26-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live36-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 7
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live37-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 8
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live38-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 9
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live29-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live39-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 10
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live30-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live40-1080FHD.m3u8
 
 
 
@@ -226,7 +226,7 @@ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
-
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
