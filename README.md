@@ -168,6 +168,7 @@ http://51.79.82.208:16009
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRro8cDjuiCkQ7ELJH3WhrQw=OLlS/dash-wv/jitp-linearwm/2402/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRtM0olskunMPX_AgZjpb3kQ=-zdd/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
@@ -176,6 +177,7 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRtM0olskunMPX_Ag
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhfHpI6WjNBxL-_4NMDvqTM=_3FI/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRmrIhp8wcJ46v8nUMGh7Ow0=2PFL/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
@@ -746,21 +748,21 @@ https://linears-playback.astro.com.my/vsg/41Ocevz3zxgGQjGpMkqzfRh0hwrJBO07lvZJh6
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/AstroArena2Flat.png/revision/latest?cb=20211002112646",Astro Arena HD 2
 https://aqfadtv.xyz/live/arena2/index.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", ASTRO SUPERSPORT 
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", ASTRO SUPERSPORT 
 http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/146068
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
 http://skylogic.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157556
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
 http://clientSportsals.com:80/f778W3He/yj7FXRjr/115617
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
 http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/157558
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5068
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 
@@ -808,6 +810,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
 #http://linears-playback.astro.com.my/vsg/41xxXshDViJKDg4lhDCeKUFZNVH28Sh6f1bK2bnHROkTo=60b3/dash-wv/jitp-linearwm/5059/default.mpd
 https://webdi.openhd.lol/ddy1/premium43/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport1.my" tvg-name="Astro SuperSport HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium123/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", 812 Astro SuperSport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3 HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", 813 Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", 814 Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="ASTRO", 815  Astro Supersport 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png", BEIN SPORTS EXTRA 
