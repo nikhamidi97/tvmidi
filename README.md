@@ -144,7 +144,9 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRoM-uBeISwqBenCM
 
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://speedtrademarket.com/live/channel/warna.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
@@ -154,7 +156,9 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqZRXeNqIA9UsfsG
 
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://speedtrademarket.com/live/channel/citra.mpd
 
 
@@ -177,12 +181,10 @@ https://aqfadtv.xyz/live/awesometv/index.mpd
 EXTINF:-1 tvg-logo="",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZmFlMGUxOWMtMzEyMC0zODhhLTgxNjAtNGE0OTlhOGZjMTI0
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129", SIAR
-https://aqfadtv.xyz/live/unifitv/siar/index.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",Siar
+https://web.hypp.tv:443/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
@@ -232,8 +234,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO HD
 http://23.237.10.66:16420
 
-#EXTINF:3 ,Suke TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png" ,Suke TV
 #EXTVLCOPT:network-caching=1000
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",BollyOne HD
