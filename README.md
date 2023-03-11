@@ -15,35 +15,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live31-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live32-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live33-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 4
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live34-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 5
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live35-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 6
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live36-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 7
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live37-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 8
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live38-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 9
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live39-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",Test 10
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live40-1080FHD.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
