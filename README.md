@@ -227,7 +227,7 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 🇸🇬tvg-logo="https://2.bp.blogspot.com/-LEwCraQ7Rnk/VYtjQ5CpN7I/AAAAAAAAHLg/ncSNmBGzQrs/s1600/SURIA%2BTV.jpg",SURIA 🇸🇬
+#EXTINF:-1 🇸🇬tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",SURIA 🇸🇬
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png", DRAMA SANGAT HD
